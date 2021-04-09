@@ -1,2 +1,2 @@
 # tensorflow-probability-cebarros
-tensorflow-probability-cebarros created by GitHub Classroom
+Main repository for PHY 511 homework 5
